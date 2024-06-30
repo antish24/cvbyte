@@ -1,0 +1,32 @@
+.cont{
+  display: flex;
+  flex-wrap: wrap;
+}
+.form{
+  width:50%; overflow:scroll; min-height: 100%;
+}
+.review{
+  width:50%; height:100%;
+}
+.templatebox{
+  width:450px;height:634.5px;
+}
+.templateboxbtn,.templateboxinfo{
+  width:450px;
+}
+@media(max-width:1000px){
+  .form{
+    width: 100%;
+  }
+  .review{
+    width: 100%;
+  }
+}
+@media(max-width:450px){
+  .templatebox{
+    width: 95%;
+  }
+  .templateboxbtn,.templateboxinfo{
+    width: 95%;
+  }
+}
