@@ -80,7 +80,7 @@ const Template1 = ({sideC}) => {
             </div>
             <span style={{position:'absolute',bottom:'10px',color:'gray'}}>Made With <a style={{color:'white',textDecoration:"none"}} href='https://t.me/bytecv'>CV Byte</a></span>
         </div>
-        <div style={{width:'60%',minHeight:'100%',display:'flex',flexDirection:'column',alignItems:'center',gap:'10px',background:'red'}}>
+        <div style={{width:'60%',minHeight:'100%',display:'flex',flexDirection:'column',alignItems:'center',gap:'10px'}}>
             <div style={{width:'95%',display:'flex',flexDirection:'column',marginTop:'25px'}}>
                 <span style={{fontSize:"28px",fontWeight:'bold',color:'#323B4C'}}>Anteneh Ashenafi</span>
                 <span style={{fontSize:"16px",textAlign:'justify',color:'#323B4C'}}>Emphasis on computer security and full stack website and mobile app development with graphics designing skill.As a passionate programmer writing clean, organized, and scalable code with attention to security best practices.
