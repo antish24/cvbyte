@@ -1,10 +1,10 @@
 import React from 'react'
 import pic from '../../asset/image/bg.webp'
 
-const Template2 = () => {
+const Template2 = ({sideC}) => {
   return (
     <div style={{width:'100%',height:'100%',background:'white',display:'flex'}}>
-        <div style={{width:'40%',height:'100%',background:'#323B4C',display:'flex',alignItems:'center',flexDirection:'column',gap:'5px'}}>
+        <div style={{width:'40%',height:'100%',background:sideC,display:'flex',alignItems:'center',flexDirection:'column',gap:'5px'}}>
             <img style={{width:'90px',height:'90px',borderRadius:'50%',background:'white',marginTop:'20px'}} src={pic} alt='profile'/>
             <div style={{width:'100%',display:'flex',justifyContent:"flex-end"}}>
                 <span style={{width:'80%',fontWeight:'bold',borderBottom:'1px solid white',color:'white'}}>Contact</span>

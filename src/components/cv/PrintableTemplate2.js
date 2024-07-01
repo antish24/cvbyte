@@ -4,7 +4,7 @@ import Template1 from './Template1';
 const PrintableTemplate2 = React.forwardRef((props, ref) => {
   return (
     <div ref={ref} style={{ width: '210mm', height: '297mm' }}>
-      <Template1 />
+      <Template1 sideC={props.sideC}/>
     </div>
   );
 });
