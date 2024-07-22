@@ -13,14 +13,14 @@ const Template2 = ({sideC}) => {
             <div style={{width:'100%',display:'flex',justifyContent:"flex-end"}}>
             <div style={{display:'flex',flexDirection:'column',width:'80%',color:"white"}}>
                 <span style={{fontWeight:'bold',fontSize:'8px'}}>Phone</span>
-                <span style={{fontSize:'8px'}}>0934608749</span>
+                <span style={{fontSize:'8px'}}>0908677402</span>
             </div>
             </div>
 
             <div style={{width:'100%',display:'flex',justifyContent:"flex-end"}}>
             <div style={{display:'flex',flexDirection:'column',width:'80%',color:"white"}}>
                 <span style={{fontWeight:'bold',fontSize:'8px'}}>Email</span>
-                <span style={{fontSize:'8px'}}>aantenehh@gmail.com</span>
+                <span style={{fontSize:'8px'}}>username2024@gmail.com</span>
             </div>
             </div>
 
@@ -38,8 +38,8 @@ const Template2 = ({sideC}) => {
             <div style={{width:'100%',display:'flex',justifyContent:"flex-end"}}>
             <div style={{display:'flex',flexDirection:'column',width:'80%',color:"white"}}>
                 <span style={{fontSize:'8px'}}>2012 - 2016 E.C</span>
-                <span style={{fontWeight:'bold',fontSize:'8px'}}>BSc Computer Science</span>
-                <span style={{fontWeight:'bold',fontSize:'8px'}}>Hawassa University</span>
+                <span style={{fontWeight:'bold',fontSize:'8px'}}>BSc Information System</span>
+                <span style={{fontWeight:'bold',fontSize:'8px'}}>Addis Abeba University</span>
             </div>
             </div>
 
@@ -83,7 +83,7 @@ const Template2 = ({sideC}) => {
         </div>
         <div style={{width:'60%',minHeight:'100%',display:'flex',flexDirection:'column',alignItems:'center',gap:'10px'}}>
             <div style={{width:'95%',display:'flex',flexDirection:'column',marginTop:'25px'}}>
-                <span style={{fontSize:"18px",fontWeight:'bold',color:'#323B4C'}}>Anteneh Ashenafi</span>
+                <span style={{fontSize:"18px",fontWeight:'bold',color:'#323B4C'}}>First Last Name</span>
                 <span style={{fontSize:"8px",textAlign:'justify',color:'#323B4C'}}>Emphasis on computer security and full stack website and mobile app development with graphics designing skill.As a passionate programmer writing clean, organized, and scalable code with attention to security best practices.
                 Exceptional communication and problem-solving skills with success working independently and on cross-functional teams.Strong knowledge of computer science fundamentals including data structures, algorithms, and OOP principles. My goal is to Work on challenging and impactful projects that push the boundaries of what's possible in technology.</span>
             </div>
@@ -97,7 +97,7 @@ const Template2 = ({sideC}) => {
                     </div>
                     <div style={{display:'flex',flexDirection:'column'}}>
                         <span style={{fontSize:'8px'}}>2014 - 2016 E.C</span>
-                        <span style={{fontSize:'10px',fontWeight:'bold'}}>Trust Ict Soultion | Addis Abeba</span>
+                        <span style={{fontSize:'10px',fontWeight:'bold'}}>Company one | Addis Abeba</span>
                         <span style={{fontSize:'8px',fontWeight:'bold'}}>Full Stack Web Development Intership</span>
                         <span style={{fontSize:'8px',textAlign:'justify'}}>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pharetra in lorem at laoreet. Donec hendrerit libero eget est tempor, quis tempus arcu elementum. In elementum elit at dui tristique feugiat. Mauris convallis, mi at mattis malesuada, neque nulla volutpat dolor, hendrerit faucibus eros nibh ut nunc. Proin luctus urna id nunc sagittis dignissim. Sed in libero sed libero dictum dapibus. Vivamus fermentum est eget lorem aliquet, vel tempus metus dignissim. Donec risus arcu, tristique et sollicitudin blandit, iaculis ut nisl. Integer rutrum ultricies fringilla.</span>
 
@@ -111,7 +111,7 @@ const Template2 = ({sideC}) => {
                     </div>
                     <div style={{display:'flex',flexDirection:'column'}}>
                         <span style={{fontSize:'8px'}}>2014 - 2016 E.C</span>
-                        <span style={{fontSize:'10px',fontWeight:'bold'}}>Trust Ict Soultion | Addis Abeba</span>
+                        <span style={{fontSize:'10px',fontWeight:'bold'}}>Company Two | Addis Abeba</span>
                         <span style={{fontSize:'8px',fontWeight:'bold'}}>Full Stack Web Development Intership</span>
                         <span style={{fontSize:'8px',textAlign:'justify'}}>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pharetra in lorem at laoreet. Donec hendrerit libero eget est tempor, quis tempus arcu elementum. In elementum elit at dui tristique feugiat. Mauris convallis, mi at mattis malesuada, neque nulla volutpat dolor, hendrerit faucibus eros nibh ut nunc. Proin luctus urna id nunc sagittis dignissim. Sed in libero sed libero dictum dapibus. Vivamus fermentum est eget lorem aliquet, vel tempus metus dignissim. Donec risus arcu, tristique et sollicitudin blandit, iaculis ut nisl. Integer rutrum ultricies fringilla.</span>
 
@@ -125,7 +125,7 @@ const Template2 = ({sideC}) => {
                     </div>
                     <div style={{display:'flex',flexDirection:'column'}}>
                         <span style={{fontSize:'8px'}}>2014 - 2016 E.C</span>
-                        <span style={{fontSize:'10px',fontWeight:'bold'}}>Trust Ict Soultion | Addis Abeba</span>
+                        <span style={{fontSize:'10px',fontWeight:'bold'}}>Company Three | Addis Abeba</span>
                         <span style={{fontSize:'8px',fontWeight:'bold'}}>Full Stack Web Development Intership</span>
                         <span style={{fontSize:'8px',textAlign:'justify'}}>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pharetra in lorem at laoreet. Donec hendrerit libero eget est tempor, quis tempus arcu elementum. In elementum elit at dui tristique feugiat. Mauris convallis, mi at mattis malesuada, neque nulla volutpat dolor, hendrerit faucibus eros nibh ut nunc. Proin luctus urna id nunc sagittis dignissim. Sed in libero sed libero dictum dapibus. Vivamus fermentum est eget lorem aliquet, vel tempus metus dignissim. Donec risus arcu, tristique et sollicitudin blandit, iaculis ut nisl. Integer rutrum ultricies fringilla.</span>
 
